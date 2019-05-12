@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fa8bcd7b5d0632462611c21baaf7445dd6de5042/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de62eaaf0eff7310179f859107333df72391d41">
+        <dex dex="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_da0ed5542808a84e8c017e31214f2f87a070c5c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amirhome/AndroidStudioProjects/DroidProtect/app/libs/additionnal.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/transforms/dex/debug/folders/1000/2/additionnal_4c8c9da6f1152d70419bdc718ce9a8e2e79e3d29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amirhome/AndroidStudioProjects/DroidProtect/app/libs/activation.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/transforms/dex/debug/folders/1000/2/activation_a61ccf0d19f7126cdbfae9a18f55b5da674a1ae4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/amirhome/AndroidStudioProjects/DroidProtect/app/libs/mail.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/home/amirhome/AndroidStudioProjects/DroidProtect/app/build/intermediates/transforms/dex/debug/folders/1000/2/mail_5b92b9cf81f07ac69ecb3d3dea59e1bfbacc7e89/classes.dex" />
+    </item>
+
+</items>
